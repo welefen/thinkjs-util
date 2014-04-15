@@ -1,0 +1,21 @@
+{
+  "name": "thinkjs-util",
+  "version": "0.0.0",
+  "description": "thinkjs-util ============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/welefen/thinkjs-util.git"
+  },
+  "dependencies": {
+      "es6-promise": "0.1.1"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/welefen/thinkjs-util/issues"
+  }
+}

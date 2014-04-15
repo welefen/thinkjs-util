@@ -1,11 +1,8 @@
 {
   "name": "thinkjs-util",
-  "version": "0.0.0",
-  "description": "thinkjs-util ============",
+  "version": "0.0.2",
+  "description": "util for thinkjs",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/welefen/thinkjs-util.git"
